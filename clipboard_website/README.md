@@ -8,6 +8,10 @@ A responsive website built using Tailwind CSS to showcase the features of a clip
 - Built with modern Tailwind CSS framework.
 - Clean and minimalistic UI.
 
+## Deployed at
+
+https://glistening-concha-cff96f.netlify.app/
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
